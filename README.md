@@ -1,4 +1,4 @@
-# SentinelOne-Endpoint-Agent-Deduplicator
+# SentinelOne Endpoint Agent Deduplicator
 Script that uses SentinelOne API to decommission duplicated endpoint / agent instances from agent ID changes. Requires an API key.
 
 ## Usage:
